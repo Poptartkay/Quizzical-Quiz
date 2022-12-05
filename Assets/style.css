@@ -1,19 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap'); 
+
+
 
 *{
     box-sizing: border-box;
+}  
+
+.counter{
+    float:right;
+    font-size: 20px;
 }
-body{
+
+.playerScores{
+    float: left,top;
+    font-size: 20px;
+}
+
+
+ body{
     background-color: #b8c6db;
     background-image: linear-gradient(315deg,#b8c6b8 0%, #f5f7f7 100%);
     font-family: 'Bungee', sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    /* display: flex; */
+     align-items: center; 
+     justify-content: center; 
     height:100vh;
-    overflow: hidden;
+     overflow: hidden; 
     margin: 0;
-}
+}  
 .quiz-container{
     background-color: #fff;
     border-radius: 10px;

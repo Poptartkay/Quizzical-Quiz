@@ -1,3 +1,5 @@
+
+
 const quizData = [
     {
         question: "Which language runs in a web browser?",
@@ -33,7 +35,6 @@ const quizData = [
     }
 
 ];
-
 
 const quiz= document.getElementById('quiz')
 const answerEls = document.querySelectorAll('.answer')
