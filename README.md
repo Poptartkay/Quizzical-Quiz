@@ -60,16 +60,8 @@ THEN I can save my initials and score
 ### Continued development
 ​
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-​
-​
-### Useful resources
-​
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ​
 ## Author
   Your Name
-- Website - [Add your name here](https://www.your-site.com)
-- GitHub - [yourusername](https://github.com/yourusername)
-​
+
